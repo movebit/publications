@@ -3,7 +3,7 @@
 
 BitsLab - Securing and Building Emerging Web3 Ecosystems
 
-The vision of BitsLab is to be a Web3 security organization respected by the industry and users. It focuses on infrastructure development and security audits for emerging ecosystems including Sui, Aptos, Bitcoin, TON, Zero-Knowledge, etc. Under its umbrella, there are 3 sub-brands: MoveBit, ScaleBit, and TonBit.
+The vision of BitsLab is to be a Web3 security organization respected by the industry and users. It focuses on infrastructure development and security audits for emerging ecosystems including Sui, Aptos, Bitcoin, TON, Zero-Knowledge, etc. Under its umbrella, there are 3 sub-brands: <a href="https://movebit.xyz/" title="MoveBit">MoveBit</a>, <a href="https://scalebit.xyz/" title="ScaleBit">ScaleBit</a>, and <a href="https://tonbit.xyz/" title="TonBit">TonBit</a>.
 
 | Audit Name                        |   Chain   |                                  Audit Report                                   |
 | :----------------------------- | :---------: | :-----------------------------------------------------------------------: |
