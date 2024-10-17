@@ -1,4 +1,7 @@
 # MoveBit Sampled Audit Reports
+MoveBit is a sub-brand under BitsLab with mission to Secure and Build Emerging Web3 Ecosystems
+
+The vision of BitsLab is to be a Web3 security organization respected by the industry and users. It focuses on infrastructure development and security audits for emerging ecosystems including Sui, Aptos, Bitcoin, TON, Zero-Knowledge, etc. Under its umbrella, there are 3 sub-brands: MoveBit, ScaleBit, and TonBit.
 
 | Audit Name                        |   Chain   |                                  Audit Report                                   |
 | :----------------------------- | :---------: | :-----------------------------------------------------------------------: |
