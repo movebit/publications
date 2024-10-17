@@ -1,5 +1,5 @@
 # MoveBit Sampled Audit Reports
-MoveBit is a sub-brand under <a href="https://bitslab.xyz/" title="BitsLab">BitsLab</a>.
+<a href="https://movebit.xyz/" title="MoveBit">MoveBit</a> is a sub-brand under <a href="https://bitslab.xyz/" title="BitsLab">BitsLab</a>.
 
 BitsLab - Securing and Building Emerging Web3 Ecosystems
 
